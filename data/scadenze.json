@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "titolo": "Registrazione al comune",
+    "data": "2026-12-01",
+    "descrizione": "I tempi variano per comune: verificare quello di destinazione"
+  },
+  {
+    "id": 2,
+    "titolo": "Iscrizione alla mutuelle",
+    "data": "2026-12-15",
+    "descrizione": "Copertura sanitaria obbligatoria in Belgio"
+  },
+  {
+    "id": 3,
+    "titolo": "Apertura conto bancario",
+    "data": "2026-12-20",
+    "descrizione": "Necessario per ricevere lo stipendio"
+  },
+  {
+    "id": 4,
+    "titolo": "Rinnovo contratto di affitto",
+    "data": "2027-06-30",
+    "descrizione": ""
+  }
+]

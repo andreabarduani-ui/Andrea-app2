@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nome": "Passaporto / Carta d'identità",
+    "descrizione": "Documento di identità valido per l'ingresso e la registrazione in Belgio",
+    "stato": "pronto",
+    "scadenza": "",
+    "note": "Verifica la validità residua"
+  },
+  {
+    "id": 2,
+    "nome": "Contratto di lavoro",
+    "descrizione": "Contratto firmato con il datore di lavoro belga",
+    "stato": "da fare",
+    "scadenza": "",
+    "note": ""
+  },
+  {
+    "id": 3,
+    "nome": "Contratto di affitto",
+    "descrizione": "Contratto di locazione registrato (o prova di alloggio)",
+    "stato": "da fare",
+    "scadenza": "",
+    "note": "Serve per l'iscrizione al comune"
+  },
+  {
+    "id": 4,
+    "nome": "Certificato di nascita / stato civile",
+    "descrizione": "Con apostille se richiesto dal comune di destinazione",
+    "stato": "da fare",
+    "scadenza": "",
+    "note": ""
+  },
+  {
+    "id": 5,
+    "nome": "Diplomi e certificati",
+    "descrizione": "Titoli di studio tradotti/legalizzati se necessari per il lavoro",
+    "stato": "in corso",
+    "scadenza": "",
+    "note": ""
+  },
+  {
+    "id": 6,
+    "nome": "Patente di guida",
+    "descrizione": "Patente UE valida; valuta la conversione se il paese di origine non è UE",
+    "stato": "pronto",
+    "scadenza": "",
+    "note": ""
+  },
+  {
+    "id": 7,
+    "nome": "Codice fiscale belga (NISS)",
+    "descrizione": "Numero di sicurezza sociale, da richiedere dopo la registrazione al comune",
+    "stato": "da fare",
+    "scadenza": "",
+    "note": ""
+  },
+  {
+    "id": 8,
+    "nome": "Iscrizione alla mutuelle",
+    "descrizione": "Assicurazione sanitaria belga obbligatoria",
+    "stato": "da fare",
+    "scadenza": "",
+    "note": ""
+  },
+  {
+    "id": 9,
+    "nome": "Conto corrente bancario belga",
+    "descrizione": "IBAN belga per stipendio e domiciliazioni",
+    "stato": "da fare",
+    "scadenza": "",
+    "note": ""
+  },
+  {
+    "id": 10,
+    "nome": "Tessera di residenza (carte E / E+)",
+    "descrizione": "Documento di soggiorno rilasciato dal comune dopo la registrazione",
+    "stato": "da fare",
+    "scadenza": "",
+    "note": ""
+  }
+]
