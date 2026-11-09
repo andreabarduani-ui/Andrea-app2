@@ -212,9 +212,21 @@ button:hover { filter: brightness(1.1); }
   font-size: 13px;
 }
 
+.editor input, .editor select, .stato-select {
+  background: var(--bg);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 8px 10px;
+  font-size: 13px;
+}
+.stato-select { padding: 6px 8px; }
+main a { color: var(--accent); }
+
 @media (max-width: 700px) {
   .layout { flex-direction: column; }
   .sidebar { width: 100%; flex-direction: row; flex-wrap: wrap; border-right: none; border-bottom: 1px solid var(--border); }
   .sidebar h1 { width: 100%; }
   main { padding: 18px; }
+  main table { display: block; overflow-x: auto; }
 }

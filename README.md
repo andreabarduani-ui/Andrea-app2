@@ -74,3 +74,12 @@ Poi apri <http://localhost:3000>.
 ├── .env.example       # Template per MISTRAL_API_KEY
 └── README.md
 ```
+
+## 🌐 Versione statica su GitHub Pages
+
+Il sito è pubblicato direttamente da GitHub (Pages) dalla root del branch: `index.html` carica `public/app.js` e `public/styles.css`, e i dati vengono letti da `data/*.json`.
+
+- **Candidature** (`#/candidature`): tracker delle candidature a Bruxelles (organizzazione, ruolo, link annuncio, scadenza con conto alla rovescia, stato, link ai file CV/cover letter in `cv-applications-brussels-2026/`, oggetto email, note). Si possono aggiungere nuove candidature e cambiare lo stato.
+- Su Pages le modifiche vengono **salvate nel browser (localStorage)**: usa il pulsante **Copia JSON** nell'editor di ogni pagina e incolla il risultato nel file `data/<nome>.json` su GitHub per renderle permanenti. In alternativa modifica direttamente i JSON su GitHub.
+- **Chat AI e Terminale** funzionano solo in locale (`npm run dev`): su Pages sono disattivati di proposito, perché la chiave API non deve mai finire nel browser.
+- Per attivare/aggiornare Pages: Settings → Pages → Source = branch corrente, path `/` (root).
