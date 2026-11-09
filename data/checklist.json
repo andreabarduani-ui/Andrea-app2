@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "testo": "Prenotare l’appuntamento al comune (commune) per l’iscrizione anagrafe",
+    "fatto": false
+  },
+  {
+    "id": 2,
+    "testo": "Registrare il contratto di affitto / dichiarare l’indirizzo",
+    "fatto": false
+  },
+  {
+    "id": 3,
+    "testo": "Aprire un conto bancario in Belgio",
+    "fatto": false
+  },
+  {
+    "id": 4,
+    "testo": "Iscriversi a una mutuelle (assicurazione sanitaria)",
+    "fatto": false
+  },
+  {
+    "id": 5,
+    "testo": "Richiedere il codice NISS (numero di sicurezza sociale)",
+    "fatto": false
+  },
+  {
+    "id": 6,
+    "testo": "Verificare se serve convertire la patente di guida",
+    "fatto": false
+  },
+  {
+    "id": 7,
+    "testo": "Attivare le utenze (elettricità, gas, internet)",
+    "fatto": false
+  },
+  {
+    "id": 8,
+    "testo": "Iscrivere i figli a scuola / asilo (se applicabile)",
+    "fatto": false
+  },
+  {
+    "id": 9,
+    "testo": "Ritirare la tessera di residenza (carte E/E+)",
+    "fatto": false
+  },
+  {
+    "id": 10,
+    "testo": "Attivare una SIM con operatore belga",
+    "fatto": false
+  }
+]
